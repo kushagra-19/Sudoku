@@ -34,8 +34,8 @@ python3 sudoku game.py
 
 ## Authors
 
-* **Kushagra Singh** - *Initial work*
-* **Sidharth Verma** - *Initial work*
+* **Kushagra Singh** *
+* **Sidharth Verma** *
 
 ## Acknowledgements
 * [Pygame Documentations](https://www.pygame.org/docs/)
